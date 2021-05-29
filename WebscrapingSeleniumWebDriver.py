@@ -77,3 +77,42 @@ project_df = pd.DataFrame.from_dict(project_list, orient = 'index' )
 
 
 # Manipulating the Table (data frame)
+
+project_df['project_name'] = project_df.index
+project_df.columns = ['project_url', 'project_name']
+project_df = project_df.reset_index(drop = True)
+
+
+# Export project dataframe to CSV
+
+project_df.to_csv('project_list.csv')
+
+
+# tips for speeding up webscraping (parallelization)
+
+# comment out to run
+
+from concurrent.futures import ProcessPoolExecutor
+import concurrent.futures
+
+def scrape_url(url):
+    new_browser = create_webdriver()
+    new_browser.get(url)
+    # extract the required data 
+    # ...
+    new_browser.quit()
+    return data
+
+with ProcessPoolExecutor(max_workers=4) as executor:
+    future_results = {executor.submit(scrape_url,url) for url in urlarray}
+
+# url array is the list of URL's you want to scrape
+results = []
+    for future in concurrent.futures.as_completed(future_results):
+    results.append(future.result())
+    
+
+
+
+
+
