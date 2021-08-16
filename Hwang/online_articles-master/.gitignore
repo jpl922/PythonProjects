@@ -1,0 +1,12 @@
+venv
+temp
+*_tkn.txt
+*_token.txt
+mapbox_tkn.txt
+locationiq_token.txt
+not_for_public.py
+*.idea
+*.pyc
+test.py
+sixdegs_leagues_2
+/covid_viz_nyt/

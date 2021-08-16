@@ -1,0 +1,31 @@
+,arena_name,arena_city,teamname,capacity,opened,full_loc,arena_loc,lat,lon
+0,American Airlines Arena,"Miami, Florida",Miami Heat,"19,600",1999,"American Airlines Arena, Miami, Florida","('25.78135955', '-80.1879435162614')",25.78135955,-80.1879435162614
+1,American Airlines Center,"Dallas, Texas",Dallas Mavericks,"19,200",2001,"American Airlines Center, Dallas, Texas","('32.7905076', '-96.8102721346083')",32.7905076,-96.8102721346083
+2,Amway Center,"Orlando, Florida",Orlando Magic,"18,846",2010,"Amway Center, Orlando, Florida","('28.53927385', '-81.3840071392482')",28.53927385,-81.3840071392482
+3,AT and T Center,"San Antonio, Texas",San Antonio Spurs,"18,418",2002,"AT and T Center, San Antonio, Texas","('29.4270504', '-98.437507063984')",29.4270504,-98.437507063984
+4,Bankers Life Fieldhouse,"Indianapolis, Indiana",Indiana Pacers,"17,923",1999,"Bankers Life Fieldhouse, Indianapolis, Indiana","('39.7639331', '-86.1555079497342')",39.7639331,-86.1555079497342
+5,Barclays Center,"Brooklyn, New York",Brooklyn Nets,"17,732",2012,"Barclays Center, Brooklyn, New York","('40.6826108', '-73.9752789975729')",40.6826108,-73.9752789975729
+6,Capital One Arena,"Washington, D.C.",Washington Wizards,"20,356",1997,"Capital One Arena, Washington, D.C.","('38.8981835', '-77.0209381683517')",38.8981835,-77.0209381683517
+7,Chase Center,"San Francisco, California",Golden State Warriors,"18,064",2019,"Chase Center, San Francisco, California","('37.7678927', '-122.387407213304')",37.7678927,-122.387407213304
+8,Chesapeake Energy Arena,"Oklahoma City, Oklahoma",Oklahoma City Thunder,"18,203",2002,"Chesapeake Energy Arena, Oklahoma City, Oklahoma","('35.46339605', '-97.5150815013044')",35.46339605,-97.5150815013044
+9,FedExForum,"Memphis, Tennessee",Memphis Grizzlies,"17,794",2004,"FedExForum, Memphis, Tennessee","('35.1382401', '-90.050694577681')",35.1382401,-90.050694577681
+10,Fiserv Forum,"Milwaukee, Wisconsin",Milwaukee Bucks,"17,500",2018,"Fiserv Forum, Milwaukee, Wisconsin","('43.04500955', '-87.9174871058158')",43.04500955,-87.9174871058158
+11,Golden 1 Center,"Sacramento, California",Sacramento Kings,"17,583",2016,"Golden 1 Center, Sacramento, California","('38.58014045', '-121.499500764092')",38.58014045,-121.499500764092
+12,Little Caesars Arena,"Detroit, Michigan",Detroit Pistons,"20,332",2017,"Little Caesars Arena, Detroit, Michigan","('42.34092995', '-83.0551621670127')",42.34092995,-83.0551621670127
+13,Madison Square Garden,"New York City, New York",New York Knicks,"19,812",1968,"Madison Square Garden, New York City, New York","('40.7505247', '-73.9935502780078')",40.7505247,-73.9935502780078
+14,Moda Center,"Portland, Oregon",Portland Trail Blazers,"19,441",1995,"Moda Center, Portland, Oregon","('45.5315787', '-122.666833652187')",45.5315787,-122.666833652187
+15,Pepsi Center,"Denver, Colorado",Denver Nuggets,"19,520",1999,"Pepsi Center, Denver, Colorado","('39.7486838', '-105.007544017804')",39.7486838,-105.007544017804
+16,Rocket Mortgage FieldHouse,"Cleveland, Ohio",Cleveland Cavaliers,"19,432",1994,"Rocket Mortgage FieldHouse, Cleveland, Ohio","('41.4966592', '-81.6885334688371')",41.4966592,-81.6885334688371
+17,Scotiabank Arena,"Toronto, Ontario",Toronto Raptors,"19,800",1999,"Scotiabank Arena, Toronto, Ontario","('43.64342985', '-79.3790594837324')",43.64342985,-79.3790594837324
+18,Smoothie King Center,"New Orleans, Louisiana",New Orleans Pelicans,"16,867",1999,"Smoothie King Center, New Orleans, Louisiana","('29.94903925', '-90.0820689958764')",29.94903925,-90.0820689958764
+19,Spectrum Center,"Charlotte, North Carolina",Charlotte Hornets,"19,077",2005,"Spectrum Center, Charlotte, North Carolina","('35.22503405', '-80.8391368507158')",35.22503405,-80.8391368507158
+20,Staples Center,"Los Angeles, California",Los Angeles Clippers,"19,068",1999,"Staples Center, Los Angeles, California","('34.0430046', '-118.267052602794')",34.0430046,-118.267052602794
+21,Staples Center,"Los Angeles, California",Los Angeles Lakers,"18,997",1999,"Staples Center, Los Angeles, California","('34.0430046', '-118.267052602794')",34.0430046,-118.267052602794
+22,State Farm Arena,"Atlanta, Georgia",Atlanta Hawks,"18,118",1999,"State Farm Arena, Atlanta, Georgia","('33.7573194', '-84.3963907308163')",33.7573194,-84.3963907308163
+23,Talking Stick Resort Arena,"Phoenix, Arizona",Phoenix Suns,"18,055",1992,"Talking Stick Resort Arena, Phoenix, Arizona","('33.4460392', '-112.071101296294')",33.4460392,-112.071101296294
+24,Target Center,"Minneapolis, Minnesota",Minnesota Timberwolves,"18,978",1990,"Target Center, Minneapolis, Minnesota","('44.97951265', '-93.2760950256799')",44.97951265,-93.2760950256799
+25,TD Garden,"Boston, Massachusetts",Boston Celtics,"18,624",1995,"TD Garden, Boston, Massachusetts","('42.36628265', '-71.0622190701078')",42.36628265,-71.0622190701078
+26,Toyota Center,"Houston, Texas",Houston Rockets,"18,055",2003,"Toyota Center, Houston, Texas","('29.75074725', '-95.3622315147709')",29.75074725,-95.3622315147709
+27,United Center,"Chicago, Illinois",Chicago Bulls,"20,917",1994,"United Center, Chicago, Illinois","('41.88068305', '-87.6741851044139')",41.88068305,-87.6741851044139
+28,Vivint Smart Home Arena,"Salt Lake City, Utah",Utah Jazz,"18,306",1991,"Vivint Smart Home Arena, Salt Lake City, Utah","('40.76832735', '-111.901055074865')",40.76832735,-111.901055074865
+29,Wells Fargo Center,"Philadelphia, Pennsylvania",Philadelphia 76ers,"20,478",1996,"Wells Fargo Center, Philadelphia, Pennsylvania","('39.9011004', '-75.1720165461507')",39.9011004,-75.1720165461507
